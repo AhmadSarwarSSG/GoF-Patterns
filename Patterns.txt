@@ -1,0 +1,9 @@
+1- Factory Pattern
+2- Builder Pattern
+3- Prototype Pattern
+4- Facade Patter
+5- Composite Pattern
+6- Proxy Pattern
+7- Iterator Pattern
+8- Strategy Pattern
+9- Chain of Responsibilty
